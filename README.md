@@ -9,6 +9,8 @@ https://www.codecademy.com/learn/introduction-to-javascript
 
 2. Conditionals
     - Conditional statement
+       
+
 
 3. Functions
-    - 
+4. Scope
