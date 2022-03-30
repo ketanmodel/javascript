@@ -18,14 +18,22 @@ https://www.codecademy.com/learn/introduction-to-javascript
    -Global Scope
    -Block Scope
 6. Arrays
-   -Create an Array => in [ ] eg.[1,'work','true'] use variable element.
+   -Create an Array => in [ ] eg.[1,'work','true']  <use variable element.>
    -Accessing Elements => eg. let city = ['pune','goa','thane']; ,element['0' ,'1', '2']
                               console.log(city[0 or 1 or 2]; 
-   -Update Elements => chnage or replace element in array[] , e.g city[1] = 'kolhapur';
+   -Update Elements => <chnage or replace element in array[]>  , e.g city[1] = 'kolhapur';
    -Arrays with let and const
-   -The .length property
-   -The .push() Method
-   -The .pop() Method
+   -The .length property => console.log(-----.length); ,<measure the element length.>
+   -The .push() Method => <push any new element>, city.push('kolhapur','mumbai');
+                                              console.log(city);
+   -The .pop() Method => <Remove last Item in array>, removed = city.pop();
+                                                      console.log(city);
    -More Array Methods
    -Arrays and Functions
    -Nested Arrays
+7. Loops
+    -The For Loop => Use'for'to loop for( = , >, ++)
+    -Looping in Reverse
+    -Looping through Arrays
+    -Nested Loops => one loop inside another loop
+    -The While Loop
