@@ -47,3 +47,26 @@ The this Keyword
     -Property Value Shorthand
     -Destructured Assignment
     -Built-in Object Methods
+    
+    
+    
+    
+    
+    
+    
+    
+    #learn React
+    
+    # Learning Javascript
+
+https://www.codecademy.com/learn/introduction-to-react
+
+1. Your First React Component
+    -Import React
+    -Import ReactDOM
+    -Create a Component Class
+    -Name a Component Class
+    -Component Class Instructions
+    -The Render Function
+    -Create a Component Instance
+    -Render A Component
