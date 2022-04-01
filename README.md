@@ -37,3 +37,13 @@ https://www.codecademy.com/learn/introduction-to-javascript
     -Looping through Arrays
     -Nested Loops => one loop inside another loop
     -The While Loop
+8. Advanced Objects Introduction
+The this Keyword
+    -Arrow Functions and this
+     Privacy
+    -Getters
+    -Setters
+    -Factory Functions
+    -Property Value Shorthand
+    -Destructured Assignment
+    -Built-in Object Methods
