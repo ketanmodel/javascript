@@ -70,3 +70,5 @@ https://www.codecademy.com/learn/introduction-to-react
     -The Render Function
     -Create a Component Instance
     -Render A Component
+    -Components Render Other Component
+    -this.props
